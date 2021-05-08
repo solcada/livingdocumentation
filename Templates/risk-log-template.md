@@ -1,0 +1,3 @@
+| Id  | Description  | Probability | Impact | Prevent/Reduce/Accept/Transfer/Contingency | Risk Owner | Date Raised |
+|---|---|---|---|---|---|---|
+| 1 |Denial of service attack|Unlikely|Large|Accept - At the moment the website is unlikely to be targeted and is of low priority <br />Reduce - Implement cloud-flare<br />Contingency - Scale site up and use multi-regions to serve traffic|Bob Smith|7-09-2020|
