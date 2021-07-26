@@ -28,11 +28,11 @@ Below is a tutorial of how to categorize and structure your organizations IT inf
 
 It's recommended reading the following tutorials to get an idea on the structure of these living documentation markdown templates.
 
-### - [Tutorial 1 Applications](/tutorials/1-applications.md)
-### - [Tutorial 2 Databases](/tutorials/2-databases.md)
-### - [Tutorial 3 Risks / Issues / Decisions ](/tutorials/3-risks-issues-decisions.md)
-### - [Tutorial 4 Logical Environments ](/tutorials/4-logical-environments.md)
-### - [Tutorial 5 Physical Environments ](/tutorials/5-physical-environments.md)
+### - [Tutorial 1 Applications](/Tutorials/1-applications.md)
+### - [Tutorial 2 Databases](/Tutorials/2-databases.md)
+### - [Tutorial 3 Risks / Issues / Decisions ](/Tutorials/3-risks-issues-decisions.md)
+### - [Tutorial 4 Logical Environments ](/Tutorials/4-logical-environments.md)
+### - [Tutorial 5 Physical Environments ](/Tutorials/5-physical-environments.md)
 
 
 ## Sections
@@ -41,7 +41,7 @@ A collection of Wiki Sections and SubSections to describe your organizations IT 
 
 ### Architecture
 
-Architecture templates, diagrams and  [technology roadmaps ](/architecture/technology-roadmap.md)
+Architecture templates, diagrams and  [technology roadmaps ](/Architecture/technology-roadmap.md)
 
 ### Applications
 
