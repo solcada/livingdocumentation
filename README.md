@@ -1,3 +1,4 @@
+
 # Living Documentation
 
 A wiki template for living documentation using markdown
@@ -18,7 +19,7 @@ The other main issue is the incoherence of documentation. For example different 
 
 The answer is to create minimum, coherent, up to date documentation that anyone can access and amend. Most importantly it needs to follow a ‘meta-model' which can describe IT systems, scale, and be at a level of granularity which is useful to architects, developers, testers, operations.
 
-Where this can go wrong, is when a an untested, arbitrary information classification approach is used. If you create a structure that does not classify information in a useful, obvious, discoverable and scalable way, users will follow the path of leenformation and instead will create their own silo's of ‘notes'. They will put information where ever they can, because the convention used is not intuitive or doesn't allow for some deviation.
+Where this can go wrong, is when a an untested, arbitrary information classification approach is used. If you create a structure that does not classify information in a useful, obvious, discoverable and scalable way, users will follow the path of lowest energy cost and instead will create their own silo's of ‘notes'. They will put information where ever they can, because the convention used is not intuitive or doesn't allow for some deviation.
 
 One of the approaches I have used for the last 10 years is what I refer to as ‘living documentation'. It works well, scales across an organisation and provides a gradual, concise way to document an organisation and its IT systems.
 
@@ -37,7 +38,7 @@ It's recommended reading the following tutorials to get an idea on the structure
 
 ## Sections
 
-A collection of Wiki Sections and SubSections to describe your organizations IT applications and processes.
+A collection of Wiki Sections and Sub Sections to describe your organizations IT applications and processes.
 
 ### Architecture
 
@@ -53,7 +54,7 @@ Databases, Tables, Queues, and Data lineage
 
 ### Environments
 
-A collection of logical and physical environmentss
+A collection of logical and physical environments
 
 ### Projects
 
